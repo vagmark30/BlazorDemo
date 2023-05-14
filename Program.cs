@@ -36,5 +36,3 @@ using (var scope = scopeFactory.CreateScope())
 }
 
 app.Run();
-
-app.Run();
